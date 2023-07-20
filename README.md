@@ -2,7 +2,7 @@
  
 <!--Banner session-->
 <p align="center">
-  <img src="./assets/banner.png" alt="DIO" tittle="Digital Innovation One">
+  <img src="./assets/logo_dio.png" alt="DIO" tittle="Digital Innovation One">
 </p>
  
 <p align="center">
@@ -17,10 +17,6 @@
   <!-- JavaScript -->
   <a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/tree/master/Desafios/JavaScript">
     <img src="./assets/javascript.svg" alt="javascript" tittle="JavaScript" width="70" height="70">
-  </a>
-  <!-- Kotlin -->
-  <a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/tree/master/Desafios/Kotlin">
-    <img src="./assets/kotlin.svg" alt="kotlin" tittle="Kotlin" width="70" height="70">
   </a>
   <!-- Python -->
   <a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/tree/master/Desafios/Python">
@@ -477,7 +473,7 @@ Siga os passos abaixo para contribuir:
 
 ## 📜 License
 
-O projeto lançado em 2020 sobre a licença [MIT](./LICENSE) ❤️ 
+O projeto lançado em 2020 sobre a licença [MIT](./LICENSEEE) ❤️ 
 
 Made with ♥ by Wesllan Silva
 
