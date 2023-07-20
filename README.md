@@ -473,7 +473,7 @@ Siga os passos abaixo para contribuir:
 
 ## 📜 License
 
-O projeto lançado em 2020 sobre a licença [MIT](./LICENSEEE) ❤️ 
+O projeto lançado em 2020 sobre a licença [MIT](./LICENSE) ❤️ 
 
 Made with ♥ by Wesllan Silva
 
