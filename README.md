@@ -30,12 +30,14 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
     <summary><strong>C Sharp</strong></summary>
     <br />
     <div align="left">		
-        <!-- Desafios .NET - Aceleração Global Dev 21 - GFT -->
+        <!-- Introdução a Programação com C# -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.dio.me/coding/desafios-java-aceleracao-global-dev-21-gft/algorithm/fibonacci-facil?back=/tests/d32632f6-a3f6-4081-a64b-6397e9d02f15">Desafios .NET - Aceleração Global Dev 21 - GFT</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/introducao-a-programacao-com-c/algorithm/quanta-mandioca?back=/track/net-fundamentals">Introdução a Programação com C#</a></th>
             </tr>
             <tr>
+                <th colspan="3">.Net Fundamentals</th>
+            </tr>
                 <th colspan="3"></th>
             </tr>
             <tr>
@@ -44,21 +46,70 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <th>Status</th>
             </tr>
             <tr>
-                <td>Fibonacci Fácil</td>
-                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/tree/master/Desafios/C%20Sharp/Desafios%20.NET%20-%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2321%20-%20GFT/Fibonacci%20F%C3%A1cil">Código</a></td>
+                <td>Dividindo X por Y</td>
+                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/tree/master/Desafios/C%20Sharp/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/Bootcamps/Dividindo%20X%20por%20Y">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td>Número Perfeito</td>
-                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/tree/master/Desafios/C%20Sharp/Desafios%20.NET%20-%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2321%20-%20GFT/N%C3%BAmero%20Perfeito">Código</a></td>
+                <td>Distância</td>
+                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/tree/master/Desafios/C%20Sharp/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/Bootcamps/Dist%C3%A2ncia">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td>Preenchimento de Vetor II</td>
-                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/tree/master/Desafios/C%20Sharp/Desafios%20.NET%20-%20Acelera%C3%A7%C3%A3o%20Global%20Dev%20%2321%20-%20GFT/Preenchimento%20de%20Vetor%20II">Código</a></td>
+                <td>Quanta Mandioca?</td>
+                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/tree/master/Desafios/C%20Sharp/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/Bootcamps/Quanta%20Mandioca">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>    
+        </table> 
+         <!-- Resolvendo Algoritmos -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.dio.me/coding/resolvendo-algoritmos/algorithm/dividindo-x-por-y?back=/track/decola-dev-avanade-2021">Resolvendo Algoritmos</a></th>
+            </tr>
+            <tr>
+                <th colspan="3">Decola Dev Avanade 2021</th>
+            </tr>
+            <tr>
+                <th>Desafio</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Hora da Corrida</td>
+                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/tree/master/Desafios/C%20Sharp/Resolvendo%20Algoritmos/Hora%20da%20Corrida">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
-        </table>          
+            <tr>
+                <td>Cardápio Aéreo</td>
+                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/tree/master/Desafios/C%20Sharp/Resolvendo%20Algoritmos/Card%C3%A1pio%20A%C3%A9reo">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Pizza Antes do Final do Ano</td>
+                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/tree/master/Desafios/C%20Sharp/Resolvendo%20Algoritmos/Pizza%20Antes%20do%20Final%20do%20Ano">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Conversão de Tempo</td>
+                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/tree/master/Desafios/C%20Sharp/Resolvendo%20Algoritmos/Convers%C3%A3o%20de%20Tempo">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Idade em Dias</td>
+                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/tree/master/Desafios/C%20Sharp/Resolvendo%20Algoritmos/Idade%20em%20Dias">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Tempo do Dobby</td>
+                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/tree/master/Desafios/C%20Sharp/Resolvendo%20Algoritmos/Tempo%20do%20Dobby">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+            <tr>
+                <td>Rodízio de Cavalos e Carruagens</td>
+                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/tree/master/Desafios/C%20Sharp/Resolvendo%20Algoritmos/Rod%C3%ADzio%20de%20Cavalos%20e%20Carruagens">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>
+        </table>         
     </div>
 </details>
 
