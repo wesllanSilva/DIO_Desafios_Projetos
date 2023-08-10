@@ -157,13 +157,13 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr>               
         </table>     
-        <!-- Solucionando Desafios em Python -->
+        <!-- Solucionando Desafios de Projetos em Python -->
         <table border=1>
             <tr>
                 <th colspan="3"><a href="https://web.dio.me/coding/solucionando-desafios-em-python/algorithm/media-3?back=/track/banco-carrefour-data-engineer">Solucionando Desafios em Python</a></th>
             </tr>
             <tr>
-                <th colspan="3">Banco Carrefour Data Engineer</th>
+                <th colspan="3">Potência Tech powered by iFood | Ciência de Dados</th>
             </tr>
             <tr>
                 <th>Desafio</th>
@@ -171,18 +171,13 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <th>Status</th>
             </tr>
             <tr>
-                <td>Folha de Pagamento</td>
+                <td>Criando um Sistema Bancário com Python</td>
                 <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/tree/master/Desafios/Python/Solucionando%20Desafios%20em%20Python/Folha%20de%20Pagamento">Código</a></td>
                 <td align="center"></td>
             </tr>
             <tr>
-                <td>Média 3</td>
+                <td>Otimizando o Sistema Bancário com Funções Python</td>
                 <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/tree/master/Desafios/Python/Solucionando%20Desafios%20em%20Python/M%C3%A9dia%203">Código</a></td>
-                <td align="center"></td>
-            </tr>
-            <tr>
-                <td>Programa para Validação de Notas</td>
-                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/tree/master/Desafios/Python/Solucionando%20Desafios%20em%20Python/Programa%20para%20Valida%C3%A7%C3%A3o%20de%20Notas">Código</a></td>
                 <td align="center"></td>
             </tr>                
         </table>                   
