@@ -53,63 +53,14 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             <tr>
                 <td>Distância</td>
                 <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/tree/master/Desafios/C%20Sharp/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/Bootcamps/Dist%C3%A2ncia">Código</a></td>
-                <td align="center">✔️</td>
+                <td align="center"></td>
             </tr>
             <tr>
                 <td>Quanta Mandioca?</td>
                 <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/tree/master/Desafios/C%20Sharp/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/Bootcamps/Quanta%20Mandioca">Código</a></td>
-                <td align="center">✔️</td>
+                <td align="center"></td>
             </tr>    
-        </table> 
-         <!-- Resolvendo Algoritmos -->
-        <table border=1>
-            <tr>
-                <th colspan="3"><a href="https://web.dio.me/coding/resolvendo-algoritmos/algorithm/dividindo-x-por-y?back=/track/decola-dev-avanade-2021">Resolvendo Algoritmos</a></th>
-            </tr>
-            <tr>
-                <th colspan="3">Decola Dev Avanade 2021</th>
-            </tr>
-            <tr>
-                <th>Desafio</th>
-                <th>Solução</th>
-                <th>Status</th>
-            </tr>
-            <tr>
-                <td>Hora da Corrida</td>
-                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/tree/master/Desafios/C%20Sharp/Resolvendo%20Algoritmos/Hora%20da%20Corrida">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>
-            <tr>
-                <td>Cardápio Aéreo</td>
-                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/tree/master/Desafios/C%20Sharp/Resolvendo%20Algoritmos/Card%C3%A1pio%20A%C3%A9reo">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>
-            <tr>
-                <td>Pizza Antes do Final do Ano</td>
-                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/tree/master/Desafios/C%20Sharp/Resolvendo%20Algoritmos/Pizza%20Antes%20do%20Final%20do%20Ano">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>
-            <tr>
-                <td>Conversão de Tempo</td>
-                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/tree/master/Desafios/C%20Sharp/Resolvendo%20Algoritmos/Convers%C3%A3o%20de%20Tempo">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>
-            <tr>
-                <td>Idade em Dias</td>
-                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/tree/master/Desafios/C%20Sharp/Resolvendo%20Algoritmos/Idade%20em%20Dias">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>
-            <tr>
-                <td>Tempo do Dobby</td>
-                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/tree/master/Desafios/C%20Sharp/Resolvendo%20Algoritmos/Tempo%20do%20Dobby">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>
-            <tr>
-                <td>Rodízio de Cavalos e Carruagens</td>
-                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/tree/master/Desafios/C%20Sharp/Resolvendo%20Algoritmos/Rod%C3%ADzio%20de%20Cavalos%20e%20Carruagens">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>
-        </table>         
+        </table>     
     </div>
 </details>
 
@@ -139,18 +90,8 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             <tr>
                 <td>Abaixo Diagonal Principal</td>
                 <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/tree/master/Desafios/Java/Desafio%20Aritm%C3%A9tico%20em%20Java/Abaixo%20Diagonal%20Principal">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>
-            <tr>
-                <td>Abaixo Diagonal Secundaria</td>
-                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/tree/master/Desafios/Java/Desafio%20Aritm%C3%A9tico%20em%20Java/Abaixo%20Diagonal%20Secundaria">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>
-            <tr>
-                <td>Acima Diagonal Secundaria</td>
-                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/tree/master/Desafios/Java/Desafio%20Aritm%C3%A9tico%20em%20Java/Acima%20Diagonal%20Secundaria">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>                               
+                <td align="center"></td>
+            </tr>                     
         </table> 
     </div> 
 </details>       
@@ -175,27 +116,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             <tr>
                 <td>O Escolhido</td>
                 <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/tree/master/Desafios/JavaScript/Busca%20e%20La%C3%A7os%20de%20Repeti%C3%A7%C3%A3o/O%20Escolhido">Código</a></td>
-                <td align="center">✔️</td>
+                <td align="center"></td>
             </tr>
             <tr>
                 <td>Comunicação em Piralândia</td>
                 <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/tree/master/Desafios/JavaScript/Busca%20e%20La%C3%A7os%20de%20Repeti%C3%A7%C3%A3o/Comunica%C3%A7%C3%A3o%20em%20Piral%C3%A2ndia">Código</a></td>
-                <td align="center">✔️</td>
+                <td align="center"></td>
             </tr>
             <tr>
                 <td>Degustação de Vinho</td>
                 <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/tree/master/Desafios/JavaScript/Busca%20e%20La%C3%A7os%20de%20Repeti%C3%A7%C3%A3o/Degusta%C3%A7%C3%A3o%20de%20Vinho">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>
-            <tr>
-                <td>Pink e Cérebro</td>
-                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/tree/master/Desafios/JavaScript/Busca%20e%20La%C3%A7os%20de%20Repeti%C3%A7%C3%A3o/Pink%20e%20C%C3%A9rebro/solution.js">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>
-            <tr>
-                <td>Menor e Posição</td>
-                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/tree/master/Desafios/JavaScript/Busca%20e%20La%C3%A7os%20de%20Repeti%C3%A7%C3%A3o/Menor%20e%20Posi%C3%A7%C3%A3o/solution.js">Código</a></td>
-                <td align="center">✔️</td>
+                <td align="center"></td>
             </tr>
         </table>
     </div>
@@ -224,17 +155,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td>A Resposta de Theon</td>
                 <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/tree/master/Desafios/Python/Resolvendo%20algoritmos%20com%20Python/A%20Resposta%20de%20Theon">Código</a></td>
                 <td align="center">✔️</td>
-            </tr>
-            <tr>
-                <td>Exibindo Números Pares</td>
-                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/tree/master/Desafios/Python/Resolvendo%20algoritmos%20com%20Python/Exibindo%20N%C3%BAmeros%20Pares">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>
-            <tr>
-                <td>Fibonacci Fácil</td>
-                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/tree/master/Desafios/Python/Resolvendo%20algoritmos%20com%20Python/Fibonacci%20F%C3%A1cil">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>                
+            </tr>               
         </table>     
         <!-- Solucionando Desafios em Python -->
         <table border=1>
@@ -252,17 +173,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             <tr>
                 <td>Folha de Pagamento</td>
                 <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/tree/master/Desafios/Python/Solucionando%20Desafios%20em%20Python/Folha%20de%20Pagamento">Código</a></td>
-                <td align="center">✔️</td>
+                <td align="center"></td>
             </tr>
             <tr>
                 <td>Média 3</td>
                 <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/tree/master/Desafios/Python/Solucionando%20Desafios%20em%20Python/M%C3%A9dia%203">Código</a></td>
-                <td align="center">✔️</td>
+                <td align="center"></td>
             </tr>
             <tr>
                 <td>Programa para Validação de Notas</td>
                 <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/tree/master/Desafios/Python/Solucionando%20Desafios%20em%20Python/Programa%20para%20Valida%C3%A7%C3%A3o%20de%20Notas">Código</a></td>
-                <td align="center">✔️</td>
+                <td align="center"></td>
             </tr>                
         </table>                   
     </div>
