@@ -7,19 +7,19 @@
  
 <p align="center">
   <!-- C# -->
-  <a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/tree/master/Desafios/C%20Sharp">
+  <a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos//C%20Sharp">
     <img src="./assets/csharp.svg" alt="csharp" tittle="C#" width="70" height="70">
   </a>
   <!-- Java -->
-  <a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/tree/master/Desafios/Java">
+  <a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos//Java">
     <img src="./assets/java.svg" alt="java" tittle="Java" width="70" height="70">
   </a>
   <!-- JavaScript -->
-  <a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/tree/master/Desafios/JavaScript">
+  <a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos//JavaScript">
     <img src="./assets/javascript.svg" alt="javascript" tittle="JavaScript" width="70" height="70">
   </a>
   <!-- Python -->
-  <a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/tree/master/Desafios/Python">
+  <a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos//Python">
     <img src="./assets/python.svg" alt="python" tittle="Python" width="70" height="70">
 </p><br>
 
@@ -47,17 +47,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Dividindo X por Y</td>
-                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/tree/master/Desafios/C%20Sharp/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/Bootcamps/Dividindo%20X%20por%20Y">Código</a></td>
+                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos//C%20Sharp/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/Bootcamps/Dividindo%20X%20por%20Y">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Distância</td>
-                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/tree/master/Desafios/C%20Sharp/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/Bootcamps/Dist%C3%A2ncia">Código</a></td>
+                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos//C%20Sharp/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/Bootcamps/Dist%C3%A2ncia">Código</a></td>
                 <td align="center"></td>
             </tr>
             <tr>
                 <td>Quanta Mandioca?</td>
-                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/tree/master/Desafios/C%20Sharp/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/Bootcamps/Quanta%20Mandioca">Código</a></td>
+                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos//C%20Sharp/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/Bootcamps/Quanta%20Mandioca">Código</a></td>
                 <td align="center"></td>
             </tr>    
         </table>     
@@ -89,7 +89,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Abaixo Diagonal Principal</td>
-                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/tree/master/Desafios/Java/Desafio%20Aritm%C3%A9tico%20em%20Java/Abaixo%20Diagonal%20Principal">Código</a></td>
+                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos//Java/Desafio%20Aritm%C3%A9tico%20em%20Java/Abaixo%20Diagonal%20Principal">Código</a></td>
                 <td align="center"></td>
             </tr>                     
         </table> 
@@ -115,17 +115,17 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>O Escolhido</td>
-                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/tree/master/Desafios/JavaScript/Busca%20e%20La%C3%A7os%20de%20Repeti%C3%A7%C3%A3o/O%20Escolhido">Código</a></td>
+                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos//JavaScript/Busca%20e%20La%C3%A7os%20de%20Repeti%C3%A7%C3%A3o/O%20Escolhido">Código</a></td>
                 <td align="center"></td>
             </tr>
             <tr>
                 <td>Comunicação em Piralândia</td>
-                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/tree/master/Desafios/JavaScript/Busca%20e%20La%C3%A7os%20de%20Repeti%C3%A7%C3%A3o/Comunica%C3%A7%C3%A3o%20em%20Piral%C3%A2ndia">Código</a></td>
+                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos//JavaScript/Busca%20e%20La%C3%A7os%20de%20Repeti%C3%A7%C3%A3o/Comunica%C3%A7%C3%A3o%20em%20Piral%C3%A2ndia">Código</a></td>
                 <td align="center"></td>
             </tr>
             <tr>
                 <td>Degustação de Vinho</td>
-                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/tree/master/Desafios/JavaScript/Busca%20e%20La%C3%A7os%20de%20Repeti%C3%A7%C3%A3o/Degusta%C3%A7%C3%A3o%20de%20Vinho">Código</a></td>
+                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos//JavaScript/Busca%20e%20La%C3%A7os%20de%20Repeti%C3%A7%C3%A3o/Degusta%C3%A7%C3%A3o%20de%20Vinho">Código</a></td>
                 <td align="center"></td>
             </tr>
         </table>
@@ -153,7 +153,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>A Resposta de Theon</td>
-                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/tree/master/Desafios/Python/Resolvendo%20algoritmos%20com%20Python/A%20Resposta%20de%20Theon">Código</a></td>
+                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos//Python/Resolvendo%20algoritmos%20com%20Python/A%20Resposta%20de%20Theon">Código</a></td>
                 <td align="center">✔️</td>
             </tr>               
         </table>     
@@ -177,7 +177,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Otimizando o Sistema Bancário com Funções Python</td>
-                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/tree/master/Desafios/Python/Solucionando%20Desafios%20em%20Python/M%C3%A9dia%203">Código</a></td>
+                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos//Python/Solucionando%20Desafios%20em%20Python/M%C3%A9dia%203">Código</a></td>
                 <td align="center"></td>
             </tr>                
         </table>                   
