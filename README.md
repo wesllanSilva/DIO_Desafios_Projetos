@@ -141,32 +141,52 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Resolvendo algoritmos com Python -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.dio.me/coding/resolvendo-algoritmos-com-python-1/algorithm/fibonacci-facil?back=/track/cognizant-cloud-data-engineer">Resolvendo algoritmos com Python</a></th>
-            </tr>
-            <tr>
-                <th colspan="3">Cognizant Cloud Data Engineer</th>
-            </tr>
-            <tr>
-                <th>Desafio</th>
-                <th>Solução</th>
-                <th>Status</th>
-            </tr>
-            <tr>
-                <td>A Resposta de Theon</td>
-                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos//Python/Resolvendo%20algoritmos%20com%20Python/A%20Resposta%20de%20Theon">Código</a></td>
-                <td align="center">✔️</td>
-            </tr>               
-        </table>     
-        <!-- Solucionando Desafios de Projetos em Python -->
-        <table border=1>
-            <tr>
-                <th colspan="3"><a href="https://web.dio.me/coding/solucionando-desafios-em-python/algorithm/media-3?back=/track/banco-carrefour-data-engineer">Solucionando Desafios em Python</a></th>
+                <th colspan="3"><a href="https://web.dio.me/track/potencia-tech-powered-ifood-ciencias-de-dados-com-python">Lógica com desafios de Códigos em Python</a></th>
             </tr>
             <tr>
                 <th colspan="3">Potência Tech powered by iFood | Ciência de Dados</th>
             </tr>
             <tr>
-                <th>Desafio</th>
+                <th>Desafio de Código</th>
+                <th>Solução</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td>Tempo estimado de entrega</td>
+                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/blob/main/Python/Tempo_Estimado_De_Entrega.py">Código</a></td>
+                <td align="center">✔️</td>
+            </tr>   
+            <tr>
+                <td>Calcular o preço final</td>
+                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/blob/main/Python/Calcular_Preco_Final_De_Um_Pedido.py">Código</a></td>
+                <td align="center">✔️</td>
+            </tr> 
+            <tr>
+                <td>Ganhe uma sobremesa especial</td>
+                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/blob/main/Python">Código</a></td>
+                <td align="center"></td>
+            </tr> 
+            <tr>
+                <td>Gerenciamento de pedido de comida online</td>
+                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/blob/main/Python">Código</a></td>
+                <td align="center"></td>
+            </tr> 
+            <tr>
+                <td>Identificando pedidos veganos</td>
+                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/blob/main/Python">Código</a></td>
+                <td align="center"></td>
+            </tr> 
+        </table>     
+        <!-- Solucionando Desafios de Projetos em Python -->
+        <table border=1>
+            <tr>
+                <th colspan="3"><a href="https://web.dio.me/track/potencia-tech-powered-ifood-ciencias-de-dados-com-python">Solucionando Desafios de Projetos</a></th>
+            </tr>
+            <tr>
+                <th colspan="3">Potência Tech powered by iFood | Ciência de Dados</th>
+            </tr>
+            <tr>
+                <th>Desafio de Projeto</th>
                 <th>Solução</th>
                 <th>Status</th>
             </tr>
