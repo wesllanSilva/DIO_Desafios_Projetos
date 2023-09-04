@@ -163,8 +163,8 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr> 
             <tr>
                 <td>Ganhe uma sobremesa especial</td>
-                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/blob/main/Python">Código</a></td>
-                <td align="center"></td>
+                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/blob/main/Python/Ganhe_Sobremesa_gratis.py">Código</a></td>
+                <td align="center">✔️</td>
             </tr> 
             <tr>
                 <td>Gerenciamento de pedido de comida online</td>
