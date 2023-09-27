@@ -33,10 +33,10 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
         <!-- Introdução a Programação com C# -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.dio.me/coding/introducao-a-programacao-com-c/algorithm/quanta-mandioca?back=/track/net-fundamentals">Introdução a Programação com C#</a></th>
+                <th colspan="3"><a href="https://web.dio.me/coding/introducao-a-programacao-com-c/algorithm/quanta-mandioca?back=/track/net-fundamentals">Bootcamp WEX - Desenvolvimento .NET e QA</a></th>
             </tr>
             <tr>
-                <th colspan="3">.Net Fundamentals</th>
+                <th colspan="3">Desafio de Codigo C#</th>
             </tr>
                 <th colspan="3"></th>
             </tr>
@@ -46,17 +46,27 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <th>Status</th>
             </tr>
             <tr>
-                <td>Dividindo X por Y</td>
+                <td>Entradas e Tipos de dados co C#</td>
                 <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos//C%20Sharp/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/Bootcamps/Dividindo%20X%20por%20Y">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
-                <td>Distância</td>
+                <td>Variaveis com C#</td>
                 <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos//C%20Sharp/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/Bootcamps/Dist%C3%A2ncia">Código</a></td>
                 <td align="center"></td>
             </tr>
             <tr>
-                <td>Quanta Mandioca?</td>
+                <td>Tipos e Operadosres Aritiméticos com C# </td>
+                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos//C%20Sharp/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/Bootcamps/Quanta%20Mandioca">Código </a></td>
+                <td align="center"></td>
+            </tr>
+            <tr>
+                <td>Estruturas Condicionais com C# </td>
+                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos//C%20Sharp/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/Bootcamps/Quanta%20Mandioca">Código</a></td>
+                <td align="center"></td>
+            </tr>
+            <tr>
+                <td>Arrays e Listas em C# </td>
                 <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos//C%20Sharp/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/Bootcamps/Quanta%20Mandioca">Código</a></td>
                 <td align="center"></td>
             </tr>    
