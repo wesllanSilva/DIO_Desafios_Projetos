@@ -1,4 +1,4 @@
-<h1 align="center">Soluções dos desafios e projetos Bootcamps da DIO.me :books:</h1>
+<h1 align="center">Soluções dos desafios de Codigos Bootcamps da DIO.me :books:</h1>
  
 <!--Banner session-->
 <p align="center">
