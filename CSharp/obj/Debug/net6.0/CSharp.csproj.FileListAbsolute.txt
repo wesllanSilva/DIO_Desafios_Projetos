@@ -1,0 +1,15 @@
+C:\WORKSPACE\DIO\DIO_Desafios_Projetos\CSharp\bin\Debug\net6.0\CSharp.exe
+C:\WORKSPACE\DIO\DIO_Desafios_Projetos\CSharp\bin\Debug\net6.0\CSharp.deps.json
+C:\WORKSPACE\DIO\DIO_Desafios_Projetos\CSharp\bin\Debug\net6.0\CSharp.runtimeconfig.json
+C:\WORKSPACE\DIO\DIO_Desafios_Projetos\CSharp\bin\Debug\net6.0\CSharp.dll
+C:\WORKSPACE\DIO\DIO_Desafios_Projetos\CSharp\bin\Debug\net6.0\CSharp.pdb
+C:\WORKSPACE\DIO\DIO_Desafios_Projetos\CSharp\obj\Debug\net6.0\CSharp.csproj.AssemblyReference.cache
+C:\WORKSPACE\DIO\DIO_Desafios_Projetos\CSharp\obj\Debug\net6.0\CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORKSPACE\DIO\DIO_Desafios_Projetos\CSharp\obj\Debug\net6.0\CSharp.AssemblyInfoInputs.cache
+C:\WORKSPACE\DIO\DIO_Desafios_Projetos\CSharp\obj\Debug\net6.0\CSharp.AssemblyInfo.cs
+C:\WORKSPACE\DIO\DIO_Desafios_Projetos\CSharp\obj\Debug\net6.0\CSharp.csproj.CoreCompileInputs.cache
+C:\WORKSPACE\DIO\DIO_Desafios_Projetos\CSharp\obj\Debug\net6.0\CSharp.dll
+C:\WORKSPACE\DIO\DIO_Desafios_Projetos\CSharp\obj\Debug\net6.0\refint\CSharp.dll
+C:\WORKSPACE\DIO\DIO_Desafios_Projetos\CSharp\obj\Debug\net6.0\CSharp.pdb
+C:\WORKSPACE\DIO\DIO_Desafios_Projetos\CSharp\obj\Debug\net6.0\CSharp.genruntimeconfig.cache
+C:\WORKSPACE\DIO\DIO_Desafios_Projetos\CSharp\obj\Debug\net6.0\ref\CSharp.dll
