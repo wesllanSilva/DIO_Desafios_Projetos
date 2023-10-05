@@ -47,7 +47,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Entradas e Tipos de dados co C#</td>
-                <td><a href="CSharp/Models/EntradasETiposDeDadosComCShap.cs">Código</a></td>
+                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/CSharp/Models/EntradasETiposDeDadosComCShap.cs">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
