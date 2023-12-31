@@ -47,28 +47,28 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Entradas e Tipos de dados co C#</td>
-                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos//C%20Sharp/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/Bootcamps/Dividindo%20X%20por%20Y">Código</a></td>
+                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/blob/main/CSharp/Models/EntradasETiposDeDadosComCShap.cs">Código</a></td>
                 <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Variaveis com C#</td>
-                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos//C%20Sharp/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/Bootcamps/Dist%C3%A2ncia">Código</a></td>
-                <td align="center"></td>
+                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/blob/main/CSharp/Models/VariaveisComCSharp.cs">Código</a></td>
+                <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Tipos e Operadosres Aritiméticos com C# </td>
-                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos//C%20Sharp/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/Bootcamps/Quanta%20Mandioca">Código </a></td>
-                <td align="center"></td>
+                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/blob/main/CSharp/Models/TiposDeOperadoresAritimeticosComCSharp.cs">Código </a></td>
+                <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Estruturas Condicionais com C# </td>
-                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos//C%20Sharp/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/Bootcamps/Quanta%20Mandioca">Código</a></td>
-                <td align="center"></td>
+                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/blob/main/CSharp/Models/EstruturasCondicionaisComCSharp.cs">Código</a></td>
+                <td align="center">✔️</td>
             </tr>
             <tr>
                 <td>Arrays e Listas em C# </td>
-                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos//C%20Sharp/Introdu%C3%A7%C3%A3o%20a%20Programa%C3%A7%C3%A3o%20com%20C%23/Bootcamps/Quanta%20Mandioca">Código</a></td>
-                <td align="center"></td>
+                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/blob/main/CSharp/Models/ArraysEListasEmC%23.cs">Código</a></td>
+                <td align="center">✔️</td>
             </tr>    
         </table>     
     </div>
