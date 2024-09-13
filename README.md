@@ -154,7 +154,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <th colspan="3"><a href="https://web.dio.me/track/potencia-tech-powered-ifood-ciencias-de-dados-com-python">Lógica com desafios de Códigos em Python</a></th>
             </tr>
             <tr>
-                <th colspan="3">Potência Tech powered by iFood | Ciência de Dados</th>
+                <th colspan="3">Ciência e engenharia de Dados</th>
             </tr>
             <tr>
                 <th>Desafio de Código</th>
@@ -207,7 +207,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             </tr>
             <tr>
                 <td>Otimizando o Sistema Bancário com Funções Python</td>
-                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos//Python/Solucionando%20Desafios%20em%20Python/M%C3%A9dia%203">Código</a></td>
+                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/blob/main/Python/Sistema_Bancario_V2">Código</a></td>
                 <td align="center"></td>
             </tr>                
         </table>                   
