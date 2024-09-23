@@ -19,7 +19,7 @@
     <img src="./assets/javascript.svg" alt="javascript" tittle="JavaScript" width="70" height="70">
   </a>
   <!-- Python -->
-  <a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos//Python">
+  <a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/tree/main/Python">
     <img src="./assets/python.svg" alt="python" tittle="Python" width="70" height="70">
 </p><br>
 
