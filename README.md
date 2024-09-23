@@ -208,7 +208,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
             <tr>
                 <td>Otimizando o Sistema Bancário com Funções Python</td>
                 <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/blob/main/Python/Sistema_Bancario_V2">Código</a></td>
-                <td align="center"></td>
+                <td align="center">✔️</td>
             </tr>                
         </table>                   
     </div>
