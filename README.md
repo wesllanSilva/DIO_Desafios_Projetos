@@ -177,9 +177,9 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr> 
             <tr>
-                <td>Gerenciamento de pedido de comida online</td>
-                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/blob/main/Python">Código</a></td>
-                <td align="center"></td>
+                <td>Analise de vendas com listas</td>
+                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/blob/main/Python/Analise_vendas_com_listas.py">Código</a></td>
+                <td align="center">✔️</td>
             </tr> 
             <tr>
                 <td>Identificando pedidos veganos</td>
@@ -193,7 +193,7 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <th colspan="3"><a href="https://web.dio.me/track/potencia-tech-powered-ifood-ciencias-de-dados-com-python">Solucionando Desafios de Projetos</a></th>
             </tr>
             <tr>
-                <th colspan="3">Potência Tech powered by iFood | Ciência de Dados</th>
+                <th colspan="3"> Python (Engenharia e Ciência de Dados)</th>
             </tr>
             <tr>
                 <th>Desafio de Projeto</th>
