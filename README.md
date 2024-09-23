@@ -182,15 +182,15 @@ Clique no logotipo da linguagem para conferir soluções que ainda não estão l
                 <td align="center">✔️</td>
             </tr> 
             <tr>
-                <td>Identificando pedidos veganos</td>
-                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/blob/main/Python">Código</a></td>
-                <td align="center"></td>
+                <td>Identificando produto mais vendido </td>
+                <td><a href="https://github.com/wesllanSilva/DIO_Desafios_Projetos/blob/main/Python/identificando_produto_mais_vendido.py">Código</a></td>
+                <td align="center">✔️</td>
             </tr> 
         </table>     
         <!-- Solucionando Desafios de Projetos em Python -->
         <table border=1>
             <tr>
-                <th colspan="3"><a href="https://web.dio.me/track/potencia-tech-powered-ifood-ciencias-de-dados-com-python">Solucionando Desafios de Projetos</a></th>
+                <th colspan="3"><a href="https://web.dio.me/track/engenharia-dados-python">Solucionando Desafios de Projetos</a></th>
             </tr>
             <tr>
                 <th colspan="3"> Python (Engenharia e Ciência de Dados)</th>
