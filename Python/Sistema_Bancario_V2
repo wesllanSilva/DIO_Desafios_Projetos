@@ -1,34 +1,31 @@
-import textwrap
 
 def menu():
     menu = """\n
     ================ MENU ================
-    [d]\tDepositar
-    [s]\tSacar
-    [e]\tExtrato
-    [nc]\tNova conta
-    [lc]\tListar contas
-    [nu]\tNovo usuário
-    [q]\tSair
+    [d]  Depositar
+    [s]  Sacar
+    [e]  Extrato
+    [nc] Nova conta
+    [lc] Listar contas
+    [nu] Novo usuário
+    [q]  Sair
     => """
-    return input(textwrap.dedent(menu))
+    return input(menu)
 
-def depositar(saldo,valor,extrato):
-    
-    valor = float(input("Informe o valor do depósito: "))
+def depositar(saldo,valor,extrato, /):
 
     if valor > 0:
         saldo += valor
         extrato += f"Depósito: R$ {valor:.2f}\n"
-        print("\n=== Depósito realizado com sucesso! ===")
+        print("\n Depósito realizado com sucesso!")
     else:
-        print("Operação falhou! O valor informado é inválido.")
+        print("\n Operação falhou! O valor informado é inválido.")
 
     return saldo,extrato
 
     
 
-def sacar(saldo, valor, extrato, limite, numero_saques, limite_saques):
+def sacar(*, saldo, valor, extrato, limite, numero_saques, limite_saques):
 
     excedeu_saldo = valor > saldo
 
@@ -50,14 +47,14 @@ def sacar(saldo, valor, extrato, limite, numero_saques, limite_saques):
         extrato += f"Saque: R$ {valor:.2f}\n"
         numero_saques += 1
 
-        print("\n=== Saque realizado com sucesso! ===")
+        print("\n Saque realizado com sucesso! ")
 
     else:
         print("Operação falhou! O valor informado é inválido.")
 
     return saldo,extrato
 
-def extrato_listar(saldo,extrato):
+def extrato_listar(saldo, /, *, extrato):
     print("\n================ EXTRATO ================")
     print("Não foram realizadas movimentações." if not extrato else extrato)
     print(f"Saldo: R$ {saldo:.2f}")
@@ -103,7 +100,7 @@ def listar_contas(contas):
             Titular:\t{conta['usuario']['nome']}
         """
         print("=" * 100)
-        print(textwrap.dedent(linha))
+        print(linha)
 
 def main():
     LIMITE_SAQUES = 3
