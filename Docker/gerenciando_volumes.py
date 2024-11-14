@@ -7,7 +7,7 @@ def docker_command(input_string):
     # COMPLETE AQUI: Mapeie as ações para comandos Docker correspondentes
     actions_to_commands = {
         "criar": "docker volume create",
-        "inspecionar": "docker inspect",
+        "inspecionar": "docker volume inspect",
         "remover": "docker volume rm "
     }
     
